@@ -3,7 +3,7 @@
 ## Overview
 The Employee Management System (EMS) is a Java-based application designed to efficiently manage employee records. It provides a centralized platform for storing, accessing, and updating employee information, reducing paperwork and minimizing manual errors.
 
-![Employee Management System](https://via.placeholder.com/800x400?text=Employee+Management+System)
+![Employee Management System](https://github.com/ShubhamKumarRaman/Employee_Management_System/blob/main/EmployeeManagementSystem/src/icons/welcome.jpg)
 
 ## Features
 - **Add Employee Records**: Input personal and professional details with data validation.
@@ -21,7 +21,7 @@ The Employee Management System (EMS) is a Java-based application designed to eff
 - **JDBC**: Enables smooth interaction between the frontend and backend.
 
 ## System Architecture
-![System Architecture](https://via.placeholder.com/800x400?text=System+Architecture)
+
 
 - **Frontend**: Developed using AWT and Swing for an intuitive user experience.
 - **Backend**: Uses MySQL for reliable data storage.
